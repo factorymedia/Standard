@@ -8,7 +8,7 @@
 ## General Rules
 
   - All changes must be reviewed
-  - If LOC is longer than 200 lines, the PR has to be broken down to smaller chunks
+  - If LOC is longer than 100 lines, the PR has to be broken down to smaller chunks
   - Before merging a PR, it should have positive review (thumb - :+1: / LGTM) by one / more developers.
   - Anyone can review and reviewers should be careful when leaving reviews. (No offense / criticism / judgement )
   - A review submitter shouldn’t take the review personally.
